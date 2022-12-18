@@ -1,0 +1,5 @@
+commentjson
+pandas
+matplotlib
+numpy
+scipy

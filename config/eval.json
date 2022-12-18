@@ -1,0 +1,4 @@
+{
+    "gt_path":"./dataset/gt_idxs.npy",
+    "det_path":"./dataset/det_idxs.npy"
+}

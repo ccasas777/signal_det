@@ -1,0 +1,16 @@
+{
+    "raw_data":"./data/meas_scope_20210823.txt",
+    "pattern":"./asset/patterns",
+    "window_stride":1, 
+    "similarity_threshold":10,
+    "hyper_extend_len" : 375, 
+    "vote_threshold":0.5,
+    "triangle_window":2000, 
+    "filter":{
+        "low_pass":{
+            "fs":1250.0, 
+            "order": 5,
+            "cutoff": 30
+        }
+    }
+}
